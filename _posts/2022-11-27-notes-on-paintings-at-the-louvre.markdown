@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on Paintings at the Louvre"
-date:   2022-11-26 14:18:00 +0100
+date:   2022-11-27 14:18:00 +0100
 categories: jekyll update
 ---
 Rosso Fiorentino, Pieta and The Challenge of the Pierides. In the former, expressive, almost random colouring, more concerned with rhythm and pattern than theme and structure. Some of this carries over into the smaller former, and I admire the thick (not defuse) vagueness of the figures. 
