@@ -16,7 +16,7 @@ Giulio Romano's Circumcision: dark, Tintoresque colouring, though clearer in del
 Pontormo, The Virgin and Child with Saint Anne and Four Saints: unusual colouring (I have no name for the blue-green which replaces the blue or the red replacing the Virgin's purple or pink) and enlongated swanish figures.
 
 
-Parmagianino, The Mystic Marriage of Saint Catherine: the figures sit on the background like a softened photonegative, white-yellow-grey with the exception of the Virgin's purple.
+Parmigianino, The Mystic Marriage of Saint Catherine: the figures sit on the background like a softened photonegative, white-yellow-grey with the exception of the Virgin's purple.
 
 
 Barocci, Circumcision: Grey and pink-grey (on skin), matte dark blue of the Virgin's cloak; a softness without vagueness of line and colourful figure set in Venetian darkness; faces of concern and adoration except the Christ child who stares out with the look of invitation typical of friendly babies.
