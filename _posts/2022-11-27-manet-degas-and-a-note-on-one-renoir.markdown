@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manet, Degas, and a note on One Renoir"
+title:  "Manet, Degas, and a Note on One Renoir"
 date:   2022-11-27 15:23:00 +0100
 categories: jekyll update
 ---
