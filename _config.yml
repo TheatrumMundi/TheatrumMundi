@@ -23,8 +23,8 @@ author: Oppianos
 email: aesch1@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   A Handful Must Die
-baseurl: "wugszter" # the subpath of your site, e.g. /blog
-url: "http://wugszter.github.com/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "S3m3nD3m0n" # the subpath of your site, e.g. /blog
+url: "http://s3m3nd3m0n.github.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NewAlphabetFLW
 
 # Build settings
