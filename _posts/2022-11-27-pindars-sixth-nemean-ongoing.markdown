@@ -2,7 +2,6 @@
 layout: post
 title:  "Pindar's Sixth Nemean (Ongoing)"
 date:   2022-11-27 19:25:00 +0100
-categories: jekyll update
 ---
 One, men; one, gods; of one <br>
 mother both breathe. Power, <br>
