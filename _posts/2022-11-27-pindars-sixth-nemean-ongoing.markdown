@@ -5,31 +5,31 @@ date:   2022-11-27 19:25:00 +0100
 categories: jekyll update
 ---
 One, men; one, gods; of one <br>
-mother both breathe. Power,
-distinguished, divides them:
-so negligible one is, the other, 
-bronzed, infallible, heaven
-stands forever home. Still, 
-somewhat, we meet, in the great
-mind or nature godlike, though,
-day-light, know not, nor night,
-what track fate wrote us run.
+mother both breathe. Power, <br>
+distinguished, divides them: <br>
+so negligible one is, the other, <br>
+bronzed, infallible, heaven <br>
+stands forever home. Still, <br>
+somewhat, we meet, in the great <br>
+mind or nature godlike, though, <br>
+day-light, know not, nor night, <br>
+what track fate wrote us run. <br>
 
-Alcimidas today declares
-with the land’s yields visible
-kinship: those, changing, give
-from the field men their living,
-abundant, at one time, another
-regaining strength in repose. So
-he came, out of Nemeas’ games
-lovely, an athletic boy; and this
-pursuing, his godsent ordinance,
-showed himself, not ungifted,
-a hunter in the ring, in the footprint
-of Praxidamas planting his foot,
-Grandfather of his bloodline. He,
-Olympian, first brought Aeacidae
-Alpheus’ wreath, won five crowns
-at the Isthmus, thrice Nemea, ended
-the lapse of Socleides
+Alcimidas today declares <br>
+with the land’s yields visible <br>
+kinship: those, changing, give <br>
+from the field men their living, <br>
+abundant, at one time, another <br>
+regaining strength in repose. So <br>
+he came, out of Nemeas’ games <br>
+lovely, an athletic boy; and this <br>
+pursuing, his godsent ordinance, <br>
+showed himself, not ungifted, <br>
+a hunter in the ring, in the footprint <br>
+of Praxidamas planting his foot, <br>
+Grandfather of his bloodline. He, <br>
+Olympian, first brought Aeacidae <br>
+Alpheus’ wreath, won five crowns <br>
+at the Isthmus, thrice Nemea, ended <br>
+the lapse of Socleides <br>
 
