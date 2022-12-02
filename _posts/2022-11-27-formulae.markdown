@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Formulae"
-date:   2022-01-02 05:26:00 +0100
+date:   2022-12-02 05:26:00 +0100
 categories: jekyll update
 ---
 Formulae, as distinct from genre, exclude excellence. Genius, or ingenuinity, is responsible to problems of its form, deeply felt as need. Where no such need is felt, whether expressed through convention or innovation, the formulaic and programmatic remain the rule, and form and content arbitrary. 
