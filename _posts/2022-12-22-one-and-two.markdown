@@ -5,7 +5,7 @@ date:   2022-12-22 12:47:00 +0100
 categories: jekyll update
 ---
 
-Plato acknowledged the equality of the one and the two as the difference between difference and indifference. This is lost in the later Platonism, but explains the proclivity of his middle followers for skepticism. Probably this is best understood with reference to the sudden (ἐξαίφνης) of the Parmenides. 
+Plato acknowledged the equality of the one and the two as the difference between difference and indifference. This is lost in the later Platonism, but explains the proclivity of his middle followers for skepticism. Probably this is best understood with reference to the sudden (ἐξαίφνης) of the Parmenides. Damascius is perhaps an exception.
 
 The two differentiates the one and the two. The one indifferentiates the two and the one. This standing movement of contraction and repulsion is the sudden. It is not simply that difference takes precedence over the same; rather, they preside over each other.
 
