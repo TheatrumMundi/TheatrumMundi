@@ -11,7 +11,7 @@ The two differentiates the one and the two. The one indifferentiates the two and
 
 Not indecision, but decision pure and simple: the skeptic takes the equal weighing of assertions as the poles between which he suspends his judgement. I want to say something differentiates Plato's thought from this.
 
-The ends of his aporia, which as the result of dialectic are not arbitrary but essential, do not suspend judgement, but suggests an exchange (μεταβολή) at work between first principles and, to the extent that such is possible, in itself. "To the extent that such is possible" because the exchange is not itself among the exchanged, and is not a third term. 
+The ends of his aporia, which as the result of dialectic are not arbitrary but essential, do not suspend judgement, but suggests an exchange, or transition (μεταβολή), at work between first principles and, to the extent that such is possible, in itself. "To the extent that such is possible" because the exchange is not itself among the exchanged, and is not a third term. 
 
 A sudden exchange of being is a selving rather than a self, though, and because, it has no duration.
 
