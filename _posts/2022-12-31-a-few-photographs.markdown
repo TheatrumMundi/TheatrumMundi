@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "A Few Photographs"
-date:   2022-12-31 21:42:00 +0100
 categories: post
 ---
 
