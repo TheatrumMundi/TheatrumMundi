@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "After Rilke's Panther"
+date:   2023-01-01 17:26:00 +0100
+categories: jekyll update
+---
+I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.     
+
+His sight, by its passage across the bars, is <br>
+become so weary it beholds no more. <br>
+It is as if a thousand bars were his <br>
+and behind a thousand bars no world. <br>
+
+The soft pass, pliant sturdy pace, <br>
+that turns in the all small circle round, <br>
+is as the dance around the base, <br>
+in which the strong will stands bound. <br>
+
+The pupil’s curtains only sometimes pressed <br>
+unsounding up –. An image goes within, <br>
+goes through the limbs retensioned rest – <br>
+and in the heart gives being in. <br>
