@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "After Rilke's Panther"
-date:   2023-01-01 17:26:00 +0100
+date:   2023-01-01 16:26:00 +0100
 categories: jekyll update
 ---
 I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.     
