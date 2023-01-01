@@ -5,4 +5,4 @@ categories: post
 ---
 
 
-![Photograph 1](/assets/photographs/IMG_0653.jpg)
+![Photograph 1]({{site.url}}{{ site.baseurl }}/assets/photographs/IMG_0653.jpg)
