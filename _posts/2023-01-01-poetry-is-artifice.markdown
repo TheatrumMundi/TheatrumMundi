@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Poetry is Artifice"
+title:  "Poetry Is Artifice"
 date:   2023-01-01 17:16:00 +0100
 categories: jekyll update
 ---
