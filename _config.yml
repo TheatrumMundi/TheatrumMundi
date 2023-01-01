@@ -20,9 +20,7 @@
 
 title: OP 
 author: OP
-email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Theatrum Mundi
+email:
 url: "https://threatrummundi.eth.limo/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 
