@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "After Verlaine's Chanson d'automne"
-2/325"
 date:   2023-01-01 17:14:00 +0100
 categories: jekyll update
 ---
