@@ -1,17 +1,16 @@
 ---
 layout: post
 title:  "Fernando Pessoa, Quadras 2/325"
-2/325"
 date:   2023-01-01 16:58:00 +0100
 categories: jekyll update
 ---
 
-Eu tenho um colar de pérolas
-Enfiado para te dar:
-As per’ las são os meus beijos,
-O fio é o meu penar.
+Eu tenho um colar de pérolas <br>
+Enfiado para te dar: <br>
+As per’ las são os meus beijos, <br>
+O fio é o meu penar. <br>
 
-I have a pearl necklace,
-Set aside to give you:
-The pearls are my kisses,
-The necklace is my wound.
+I have a pearl necklace, <br>
+Set aside to give you: <br>
+The pearls are my kisses, <br>
+The necklace is my wound. <br>
