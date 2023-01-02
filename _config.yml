@@ -23,7 +23,7 @@ author: OP
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Theatrum Mundi
-url: "https://theatrummundi.eth.limo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mute-voice-6562.on.fleek.co" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
