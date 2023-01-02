@@ -1,33 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/wugszter/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/wugszter/" rel="alternate" type="text/html" /><updated>2022-11-27T17:36:29+01:00</updated><id>http://localhost:4000/wugszter/feed.xml</id><title type="html">OPPIANOS</title><subtitle>A Handful Must Die</subtitle><author><name>Oppianos</name></author><entry><title type="html">Maggots everywhere</title><link href="http://localhost:4000/wugszter/jekyll/update/2022/11/27/maggots-everywhere.html" rel="alternate" type="text/html" title="Maggots everywhere" /><published>2022-11-27T02:36:00+01:00</published><updated>2022-11-27T02:36:00+01:00</updated><id>http://localhost:4000/wugszter/jekyll/update/2022/11/27/maggots-everywhere</id><content type="html" xml:base="http://localhost:4000/wugszter/jekyll/update/2022/11/27/maggots-everywhere.html"><![CDATA[<p>sdsasda</p>]]></content><author><name>Oppianos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[sdsasda]]></summary></entry><entry><title type="html">Scum</title><link href="http://localhost:4000/wugszter/jekyll/update/2022/11/26/article.html" rel="alternate" type="text/html" title="Scum" /><published>2022-11-26T12:00:00+01:00</published><updated>2022-11-26T12:00:00+01:00</updated><id>http://localhost:4000/wugszter/jekyll/update/2022/11/26/article</id><content type="html" xml:base="http://localhost:4000/wugszter/jekyll/update/2022/11/26/article.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/feed.xml" rel="self" type="application/atom+xml" /><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/" rel="alternate" type="text/html" /><updated>2023-01-02T02:47:07+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/feed.xml</id><title type="html">OP</title><subtitle>Theatrum Mundi</subtitle><author><name>OP</name></author><entry><title type="html">Petals for Unsinn et al.</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/petals-for-unsinn-et-al.html" rel="alternate" type="text/html" title="Petals for Unsinn et al." /><published>2023-01-01T18:30:00+02:00</published><updated>2023-01-01T18:30:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/petals-for-unsinn-et-al</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/petals-for-unsinn-et-al.html"><![CDATA[<p>The only justification of work is to prove that no such justification is necessary. The effect is love.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>Beauty, which is a definite effect despite its featurings, like all loves is singular and of one singular, unjustifiably real, lost to distraction. It concludes everything which is not itself.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>The poet creates words for which words are insufficient.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Like all things sufficient to themselves, the conclusion of the poem encourages what it refuses, what is more than enough.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>On lovers and commentators: beauty appears in the features of things, but not as them, and is confused for them only by the desperate or garrulous.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>We realize, in the accomplished work, the world’s willingness to be.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Oppianos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Hitler dood wat nou</title><link href="http://localhost:4000/wugszter/jekyll/update/1945/04/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hitler dood wat nou" /><published>1945-04-30T13:00:00+02:00</published><updated>1945-04-30T13:00:00+02:00</updated><id>http://localhost:4000/wugszter/jekyll/update/1945/04/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/wugszter/jekyll/update/1945/04/30/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>The good may be both an aberation and the ultimate rule.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>“Art” is now more excuse than fact.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>Imagination, being weaker in fact and stronger in range than fact, knows more intimately the nothing which threatens all fact with illusion.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>The work proves reality intensity; thus fiction outworks nature by its nature.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>“Naturalism” has never not deceived from impotence.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>Nothing seperates the mere act from action but itself.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Oppianos</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>To charge language with the force of what it names is the responsiblity of diction.</p>
+
+<p>In winter appears only the hard edge of things.</p>
+
+<p>Illusion is the least philosphic of dismissals.</p>
+
+<p>Beauty is where the real begins to abstract itself.</p>
+
+<p>The effect of an ordinary person today is as jarring againtst a city like Venice as the same in nature. We used to, and still do in translated forms, speak of nature and culture; and the old culture has become new nature as it fosilized.</p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The only justification of work is to prove that no such justification is necessary. The effect is love.]]></summary></entry><entry><title type="html">Poetry Is Artifice</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/poetry-is-artifice.html" rel="alternate" type="text/html" title="Poetry Is Artifice" /><published>2023-01-01T18:16:00+02:00</published><updated>2023-01-01T18:16:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/poetry-is-artifice</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/poetry-is-artifice.html"><![CDATA[<p>Poetry is artifice; the question of quality is whether the nature involved in that artifice holds up as nature, i.e. holds up out of the nature of its parts or merely by outward force. “Formalism,”as perjorative, means: composition held together by extrinsic force. “Form,” as compliment, means: composition held together by intrinsic force, as ρυθμός, meaning: not “flow” but <i>composure</i>. Or: “formalism” means <i>posture</i>, “form” <i>composure</i>. Moreover, there is a composure, and hence rhythm, not just of sound, but also of sense. From this it follows that the poet has his proximity to music not as a second-rate soundsmith with the misfortune of being corrupted by the word, but as a <i>composer</i>, in his own right, as is understood by the word “poet” (ποιητής). Our distance from the Greeks is measured by who merits the name “composer.”</p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Poetry is artifice; the question of quality is whether the nature involved in that artifice holds up as nature, i.e. holds up out of the nature of its parts or merely by outward force. “Formalism,”as perjorative, means: composition held together by extrinsic force. “Form,” as compliment, means: composition held together by intrinsic force, as ρυθμός, meaning: not “flow” but composure. Or: “formalism” means posture, “form” composure. Moreover, there is a composure, and hence rhythm, not just of sound, but also of sense. From this it follows that the poet has his proximity to music not as a second-rate soundsmith with the misfortune of being corrupted by the word, but as a composer, in his own right, as is understood by the word “poet” (ποιητής). Our distance from the Greeks is measured by who merits the name “composer.”]]></summary></entry><entry><title type="html">The Athenasian Creed</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Athenasian-Creed.html" rel="alternate" type="text/html" title="The Athenasian Creed" /><published>2023-01-01T18:11:00+02:00</published><updated>2023-01-01T18:11:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Athenasian-Creed</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Athenasian-Creed.html"><![CDATA[<p>The God of the beyond, an atheist insofar as atheism is a matter of belief, could only culminate in immanence, or the abolition of belief and worship. Christ has stood as condition and obstacle of this movement. The God-man tantilizes God with an as yet unconsummated indifference, the strength of which was always felt. The Athenasian Creed, foreclosing, because understanding, this temptation, reads: <i> unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum. </i> The former, what is denied, means: God, not turned into man, a believing and worshipping animal, a distant animal, but flesh, the animal pure and close and simple; certainly an appealing prospect for late people more fascinated by forgetting than by memory, and more interested in the qualities of animals than of angels. But the animal is the angel of the man who can no longer believe in God. The immediacy of indifference, ignorance, forgetting converts into worship at the same moment God ceases to be an object of belief. To say “Man” is to always speak of God, at least as a prospect, a future, a destination and perhaps an afterlife, as to speak of the Animal is to suggest the past, both whole, both present without the issue of time, and unfraught by the rest of the difficulties endemic to being diverted between them, as is our present and our being. Each would seem to be the dream of the other, and each tempted by the prospect of a waking consummation which is nearly indisguishable from suicide. God: a man no longer at odds with himself, whose reason, in understanding, is no longer merely a qualification of his animality, and thus sharer in the prehistoric and heroic eternity of the animal. Whether the unqualified man be the wholly rational man or the man subsumed by immediate desire, the computer or the degenerate, the dream is the same dream of God’s carnality. To believe in God is the “blasphemy” which alone dignifies Him in his distance. It is the affirmation of man’s insuturable division, and the being of that division as inherent in creation and thus in God.</p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The God of the beyond, an atheist insofar as atheism is a matter of belief, could only culminate in immanence, or the abolition of belief and worship. Christ has stood as condition and obstacle of this movement. The God-man tantilizes God with an as yet unconsummated indifference, the strength of which was always felt. The Athenasian Creed, foreclosing, because understanding, this temptation, reads: unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum. The former, what is denied, means: God, not turned into man, a believing and worshipping animal, a distant animal, but flesh, the animal pure and close and simple; certainly an appealing prospect for late people more fascinated by forgetting than by memory, and more interested in the qualities of animals than of angels. But the animal is the angel of the man who can no longer believe in God. The immediacy of indifference, ignorance, forgetting converts into worship at the same moment God ceases to be an object of belief. To say “Man” is to always speak of God, at least as a prospect, a future, a destination and perhaps an afterlife, as to speak of the Animal is to suggest the past, both whole, both present without the issue of time, and unfraught by the rest of the difficulties endemic to being diverted between them, as is our present and our being. Each would seem to be the dream of the other, and each tempted by the prospect of a waking consummation which is nearly indisguishable from suicide. God: a man no longer at odds with himself, whose reason, in understanding, is no longer merely a qualification of his animality, and thus sharer in the prehistoric and heroic eternity of the animal. Whether the unqualified man be the wholly rational man or the man subsumed by immediate desire, the computer or the degenerate, the dream is the same dream of God’s carnality. To believe in God is the “blasphemy” which alone dignifies Him in his distance. It is the affirmation of man’s insuturable division, and the being of that division as inherent in creation and thus in God.]]></summary></entry><entry><title type="html">False Beauty</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/False-Beauty.html" rel="alternate" type="text/html" title="False Beauty" /><published>2023-01-01T17:59:00+02:00</published><updated>2023-01-01T17:59:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/False-Beauty</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/False-Beauty.html"><![CDATA[<p>False beauty not beauty’s <br />
+falsity, supposed broken, <br />
+overwritten never. <br /></p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[False beauty not beauty’s falsity, supposed broken, overwritten never.]]></summary></entry><entry><title type="html">The Pelt</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Pelt.html" rel="alternate" type="text/html" title="The Pelt" /><published>2023-01-01T17:41:00+02:00</published><updated>2023-01-01T17:41:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Pelt</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/The-Pelt.html"><![CDATA[<p>They wear with dignity their in- <br />
+dignity; are, have been, our rumour. <br />
+Disproportion, between error <br />
+after error, fine measure of such <br /></p>
+
+<p>things as resist it, bears us little <br />
+resemblance. The alabaster sun <br />
+models the skin which is not, <br />
+the viscera, the teeth, the marrow, <br /></p>
+
+<p>our own, on to the bone which is <br />
+in marble, metal: sculpture, the <br />
+life outside inside us, unearthed <br />
+at Melos, domesticate the rot. <br /></p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[They wear with dignity their in- dignity; are, have been, our rumour. Disproportion, between error after error, fine measure of such]]></summary></entry><entry><title type="html">After Rilke’s Panther</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Rilke's-Panther.html" rel="alternate" type="text/html" title="After Rilke’s Panther" /><published>2023-01-01T17:26:00+02:00</published><updated>2023-01-01T17:26:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Rilke&apos;s-Panther</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Rilke&apos;s-Panther.html"><![CDATA[<p>I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.</p>
+
+<p>His sight, by its passage across the bars, is <br />
+become so weary it beholds no more. <br />
+It is as if a thousand bars were his <br />
+and behind a thousand bars no world. <br /></p>
+
+<p>The soft pass, pliant sturdy pace, <br />
+that turns in the all small circle round, <br />
+is as the dance around the base, <br />
+in which the strong will stands bound. <br /></p>
+
+<p>The pupil’s curtains only sometimes pressed <br />
+unsounding up –. An image goes within, <br />
+goes through the limbs retensioned rest – <br />
+and in the heart gives being in. <br /></p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.]]></summary></entry><entry><title type="html">After Verlaine’s Chanson d’automne</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Verlaine's-Chanson-d'automne.html" rel="alternate" type="text/html" title="After Verlaine’s Chanson d’automne" /><published>2023-01-01T17:14:00+02:00</published><updated>2023-01-01T17:14:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Verlaine&apos;s-Chanson-d&apos;automne</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Verlaine&apos;s-Chanson-d&apos;automne.html"><![CDATA[<p>The prolonged bawl <br />
+of the fall <br />
+violin’s <br />
+boredom <br />
+breaks my humdrum <br />
+heart in. <br /></p>
+
+<p>Wheezing and white  <br />
+at the strike  <br />
+of the clock  <br />
+the mind strays  <br />
+on bygone days <br />
+in shock. <br /></p>
+
+<p>I am let go <br />
+on the tow <br />
+of the gusts <br />
+which bear <br />
+here and there <br />
+my leafdust. <br /></p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The prolonged bawl of the fall violin’s boredom breaks my humdrum heart in.]]></summary></entry><entry><title type="html">After Fernando Pessoa, Quadras 2/325</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Fernando-Passoa-Quadras-2-325.html" rel="alternate" type="text/html" title="After Fernando Pessoa, Quadras 2/325" /><published>2023-01-01T16:58:00+02:00</published><updated>2023-01-01T16:58:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Fernando-Passoa-Quadras-2-325</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2023/01/01/After-Fernando-Passoa-Quadras-2-325.html"><![CDATA[<p>Eu tenho um colar de pérolas <br />
+Enfiado para te dar: <br />
+As per’ las são os meus beijos, <br />
+O fio é o meu penar. <br /></p>
+
+<p>I have a pearl necklace, <br />
+Set aside to give you: <br />
+The pearls are my kisses, <br />
+The necklace is my wound. <br /></p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Eu tenho um colar de pérolas Enfiado para te dar: As per’ las são os meus beijos, O fio é o meu penar.]]></summary></entry><entry><title type="html">A Few Photographs</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/post/2022/12/31/a-few-photographs.html" rel="alternate" type="text/html" title="A Few Photographs" /><published>2022-12-31T00:00:00+02:00</published><updated>2022-12-31T00:00:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/post/2022/12/31/a-few-photographs</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/post/2022/12/31/a-few-photographs.html"><![CDATA[<p>The Better</p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1/IMG_0653.jpg" alt="Photograph 1" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1/IMG_0664.jpg" alt="Photograph 2" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1/IMG_0718.jpg" alt="Photograph 3" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1/IMG_0739.jpg" alt="Photograph 4" /></p>
+
+<p>The Dross</p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0628.jpg" alt="Photograph 5" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0635.jpg" alt="Photograph 6" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0636.jpg" alt="Photograph 7" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0637.jpg" alt="Photograph 8" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0640.jpg" alt="Photograph 9" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0650.jpg" alt="Photograph 10" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0666.jpg" alt="Photograph 11" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0675.jpg" alt="Photograph 12" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0680.jpg" alt="Photograph 13" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0683.jpg" alt="Photograph 14" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0687.jpg" alt="Photograph 15" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0696.jpg" alt="Photograph 16" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0701.jpg" alt="Photograph 17" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0709.jpg" alt="Photograph 18" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0714.jpg" alt="Photograph 19" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0715.jpg" alt="Photograph 20" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0718.jpg" alt="Photograph 21" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0721.jpg" alt="Photograph 22" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0734.jpg" alt="Photograph 23" /></p>
+
+<p><img src="http://s3m3nd3m0n.github.io/S3m3nD3m0n/assets/photographs/post-photographs-1-dross/IMG_0737.jpg" alt="Photograph 24" /></p>]]></content><author><name>OP</name></author><category term="post" /><summary type="html"><![CDATA[The Better]]></summary></entry><entry><title type="html">One and Two</title><link href="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2022/12/22/one-and-two.html" rel="alternate" type="text/html" title="One and Two" /><published>2022-12-22T13:47:00+02:00</published><updated>2022-12-22T13:47:00+02:00</updated><id>http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2022/12/22/one-and-two</id><content type="html" xml:base="http://s3m3nd3m0n.github.io/S3m3nD3m0n/jekyll/update/2022/12/22/one-and-two.html"><![CDATA[<p>Plato acknowledged the equality of the one and the two as the difference between difference and indifference. This is lost in the later Platonism, but explains the proclivity of his middle followers for skepticism. Probably this is best understood with reference to the sudden (ἐξαίφνης) of the Parmenides. Damascius is perhaps an exception.</p>
+
+<p>The two differentiates the one and the two. The one indifferentiates the two and the one. This standing movement of contraction and repulsion is an instantaneous transition. It is not simply that difference takes precedence over the same; rather, they preside over each other.</p>
+
+<p>Not indecision, but decision pure and simple: the skeptic takes the equal weighing of assertions as the poles between which he suspends his judgement. I want to say something differentiates Plato’s thought from this.</p>
+
+<p>The ends of his aporia, which as the result of dialectic are not arbitrary but essential, do not suspend judgement, but suggest an exchange, or transition (μεταβολή), at work between first principles and, to the extent that such is possible, in itself. “To the extent that such is possible” because the exchange is not itself among the exchanged, and is not a third term.</p>
+
+<p>A sudden exchange of being is a selving rather than a self, though, and because, it has no duration.</p>]]></content><author><name>OP</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Plato acknowledged the equality of the one and the two as the difference between difference and indifference. This is lost in the later Platonism, but explains the proclivity of his middle followers for skepticism. Probably this is best understood with reference to the sudden (ἐξαίφνης) of the Parmenides. Damascius is perhaps an exception.]]></summary></entry></feed>
