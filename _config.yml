@@ -23,7 +23,6 @@ author: OP
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Theatrum Mundi
-baseurl: "/S3m3nD3m0n" # the subpath of your site, e.g. /blog
 url: "http://s3m3nd3m0n.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
