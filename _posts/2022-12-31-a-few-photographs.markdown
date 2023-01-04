@@ -33,8 +33,6 @@ The Dross
 
 ![Photograph 11]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0666.jpg)
 
-![Photograph 12]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0675.jpg)
-
 ![Photograph 13]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0680.jpg)
 
 ![Photograph 14]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0683.jpg)
