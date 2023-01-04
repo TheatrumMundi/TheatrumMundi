@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-It was once custom to write the older and irregular meters into the "stricter" standards of later prosodists. The following poem, Wyatt's<i>They Flee From Me,</i> is one such example. The first is the original, the second is Richard Tottel's emendation, from the 1557 <i>Miscellany</i>. Emendations are italicized.
+It was once custom to write the older and irregular meters into the "stricter" standards of later prosodists. The following poem, Wyatt's <i>They Flee From Me,</i> is one such example. The first is the original, the second is Richard Tottel's emendation, from the 1557 <i>Miscellany</i>. Emendations are italicized.
 
 They fle from me that sometyme did me seke <br>
 With naked fote stalking in my chambre.<br>
