@@ -4,17 +4,17 @@ title:  "D.H. Lawrence on the Camera and Cezanne"
 date:   2023-04-01 06:18:00 +0100
 categories: jekyll update
 ---
-<i> From Art and Morality. </i>
+<i> From Art and Morality </i>
 
 Because of a very curious habit that civilised man has been forming down the whole course of civilisation, and in which he is now hardboiled. The slowly-formed habit of seeing just as the photographic camera sees.
 
-But you may say that the object reflected on the retina is always photographic. It may be. I doubt it. But whatever the image on the retina may be, it is rarely, even now, the photographic image of the object which is actually taken in by the man who sees the object. He does not, even now, see for himself. He secs what the kodak has taught him to see. And man, try as he may, is not a kodak.
+But you may say that the object reflected on the retina is always photographic. It may be. I doubt it. But whatever the image on the retina may be, it is rarely, even now, the photographic image of the object which is actually taken in by the man who sees the object. He does not, even now, see for himself. He sees what the kodak has taught him to see. And man, try as he may, is not a kodak.
 
 ...
 
 This is the habit we have formed: of visualizing everything. Each man to himself is a picture. That is, he is a complete little objective reality, complete in himself, existing by himself, absolutely, in the middle of the picture. All the rest is just setting, background. To every man, to every woman, the universe is just a setting to the absolute little picture of himself, or herself. This has been the development of the conscious ego in man through several thousand years: since the Greek artists first broke the spell of "darkness". Man has learnt to see himself. So now, he is what he sees. He makes himself in his own image. Previously, even in Egypt, men had not learned to see straight. They fumbled in the dark, and didn't quite know where they were, or what they were. Like men in a dark room, they only felt their own existence surging in the darkness of other existences.
 
-We, however, have learned to see ourselves for what we are, as the sun sees us. The kodak bears witness. We sec as the All-Seeing Eye sees, with the universal vision. And we are what is seen; each man to himself an identity, an isolated absolute, corresponding with a universe of isolated absolutes. A picture! A kodak snap, in a universal film of snaps. The picture, of rue, the me that is seen, is me. 
+We, however, have learned to see ourselves for what we are, as the sun sees us. The kodak bears witness. We see as the All-Seeing Eye sees, with the universal vision. And we are what is seen; each man to himself an identity, an isolated absolute, corresponding with a universe of isolated absolutes. A picture! A kodak snap, in a universal film of snaps. The picture, of rue, the me that is seen, is me. 
 
 As soon as we are supremely satisfied about it, somebody starts to upset us. Comes Cezanne with his pitcher and his apples, which are not only not life-like, but are a living lie. The kodak will prove that they are a lie.
 
