@@ -26,13 +26,11 @@ Imagination, being weaker in fact and stronger in range than fact, knows more in
 
 The work proves reality intensity; thus fiction outworks nature by its nature・
 
+To charge language with the force of what it names is the responsiblity of diction・
+
 “Naturalism” has never not deceived from impotence・
 
 Nothing seperates the mere act from action but itself・
-
-To charge language with the force of what it names is the responsiblity of diction・
-
-In winter appears only the hard edge of things・
 
 Illusion is the least philosphic of dismissals・
 
