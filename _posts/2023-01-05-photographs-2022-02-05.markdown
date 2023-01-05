@@ -21,8 +21,6 @@ categories: jekyll update
 
 ![Photograph 1]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-2/IMG_9720.jpg)
 
-![Photograph 1]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-2/IMG_9728.jpg)
-
 ![Photograph 1]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-2/IMG_9733.jpg)
 
 
