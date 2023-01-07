@@ -62,7 +62,6 @@ It was once custom to write the older and irregular meters into the "stricter" s
  </div> 
  <br />
 
-
 Every emendation in favour of "metre" is detrimental to the integrity of the composition. It is worth going over and comparing line by line. Whoever does so will understand the difference between metre as a rule and measure as the rhythmic integreity of a composition. 
 
 The basic division which proportions Wyatt's phrase is the offset caesura. This is the initial quadrasylabic <i>colon</i> which opens almost every line. Whether it accepts one or two stresses (occaisonally more) is indifferent, as is the order of the "feet": what forms the rhythmn of the phrase is that stress or stresses are held ("sprung") in this truncated and disproprtioned introduction, and released in the following half. The first stanza may be scanned as follows:
