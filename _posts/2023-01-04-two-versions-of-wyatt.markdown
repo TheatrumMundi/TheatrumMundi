@@ -8,6 +8,8 @@ categories: jekyll update
 
 It was once custom to write the older and irregular meters into the "stricter" standards of later prosodists. The following poem, Wyatt's <i>They Flee From Me,</i> is one such example. The first is the original, the second is Richard Tottel's emendation, from the 1557 <i>Miscellany</i>. Emendations are italicized.
 
+<div class="columnated">
+    <div class="col">
 They fle from me that sometyme did me seke <br>
 With naked fote stalking in my chambre.<br>
 I have sene theim gentill tame and meke<br>
@@ -30,10 +32,8 @@ Into a straunge fasshion of forsaking;<br>
 And I have leve to goo of her goodenes,<br>
 And she also to vse new fangilnes.<br>
 But syns that I so kyndely ame serued,<br>
-I would fain knowe what she hath deserued
-
-~
-
+I would fain knowe what she hath deserued</div>
+    <div class="col">
 They flee from me, that somtime did me seke<br>
 With naked fote stalkyng <i>within</i> my chamber.<br>
 <i>Once haue I</i> seen them gentle, tame, and meke,<br>
@@ -56,7 +56,8 @@ Into a <i>bitter</i> fashion of forsakyng:<br>
 And I haue leaue to go of her goodnesse,<br>
 and she also to vse newfanglenesse.<br>
 But, sins that I <i>unkindly so</i> am serued:<br>
-<i>How like you this,</i> what hath she <i>now</i> deserued?<br>
+<i>How like you this,</i> what hath she <i>now</i> deserued?<br></div>
+   </div>
 
 Every emendation in favour of "metre" is detrimental to the integrity of the composition. It is worth going over and comparing line by line. Whoever does so will understand the difference between metre as a rule and measure as the rhythmic integreity of a composition. 
 
