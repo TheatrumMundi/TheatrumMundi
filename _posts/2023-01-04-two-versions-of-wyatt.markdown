@@ -37,27 +37,27 @@ It was once custom to write the older and irregular meters into the "stricter" s
     <div class="col">
         They flee from me, that somtime did me seke<br>
         With naked fote stalkyng <span style="color: #bb0100;"><i>within</i></span> my chamber.<br>
-        <i>Once haue I</i> seen them gentle, tame, and meke,<br>
-        That now are wild, and do not <i>once</i> remember<br>
-        That sometyme they <i>haue</i> put them selues in danger,<br>
+        <span style="color: #bb0100;"><i>Once haue I</i></span> seen them gentle, tame, and meke,<br>
+        That now are wild, and do not <span style="color: #bb0100;"><i>once</i></span> remember<br>
+        That sometyme they <span style="color: #bb0100;"><i>haue</i></span> put them selues in danger,<br>
         To take bread at my hand, and now they range,<br>
         Busily sekyng in continuall change. <br>
     
         Thanked be Fortune, it hath bene otherwise<br>
-        Twenty tymes better: but once <i>especiall</i>,<br>
+        Twenty tymes better: but once <span style="color: #bb0100;"><i>especiall</i></span>,<br>
         In thinne aray, after a pleasant gyse,<br>
-        When her loose gowne <i>did</i> from her shoulders fall<br>
+        When her loose gowne <span style="color: #bb0100;"><i>did</i></span> from her shoulders fall<br>
         And she me caught in her armes long and small,<br>
-        <i>And</i> therewithall, <i>so</i> swetely did me kysse,<br>
+        <span style="color: #bb0100;"><i>And</i></span> therewithall, <span style="color: #bb0100;"><i>so</i></span> swetely did me kysse,<br>
         And softly sayd: deare heart, how like you this? <br>
 
-        It was no dreame: <i>for</i> I lay broad <i>awakyng</i>.<br>
-        But all is turnde <i>now through</i> my gentlenesse<br>
-        Into a <i>bitter</i> fashion of forsakyng:<br>
+        It was no dreame: <span style="color: #bb0100;"><i>for</i></sapn> I lay broad <span style="color: #bb0100;"><i>awakyng</i></span>.<br>
+        But all is turnde <span style="color: #bb0100;"><i>now through</i></span> my gentlenesse<br>
+        Into a <span style="color: #bb0100;"><i>bitter</i></span> fashion of forsakyng:<br>
         And I haue leaue to go of her goodnesse,<br>
         And she also to vse newfanglenesse.<br>
-        But, sins that I <i>unkindly so</i> am serued:<br>
-        <i>How like you this,</i> what hath she <i>now</i> deserued?<br>
+        But, sins that I <span style="color: #bb0100;"><i>unkindly so</i></span> am serued:<br>
+        <span style="color: #bb0100;"><i>How like you this</i></span>, what hath she <span style="color: #bb0100;"><i>now</i></span> deserued?<br>
     </div>
  </div> 
  <br />
