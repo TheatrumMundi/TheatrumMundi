@@ -51,7 +51,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
         <span style="color: #bb0100;"><i>And</i></span> therewithall, <span style="color: #bb0100;"><i>so</i></span> swetely did me kysse,<br>
         And softly sayd: deare heart, how like you this? <br>
 
-        It was no dreame: <span style="color: #bb0100;"><i>for</i></sapn> I lay broad <span style="color: #bb0100;"><i>awakyng</i></span>.<br>
+        It was no dreame: <span style="color: #bb0100;"><i>for</i></span> I lay broad <span style="color: #bb0100;"><i>awakyng</i></span>.<br>
         But all is turnde <span style="color: #bb0100;"><i>now through</i></span> my gentlenesse<br>
         Into a <span style="color: #bb0100;"><i>bitter</i></span> fashion of forsakyng:<br>
         And I haue leaue to go of her goodnesse,<br>
