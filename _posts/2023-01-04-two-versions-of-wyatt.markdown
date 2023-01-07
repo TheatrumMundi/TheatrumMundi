@@ -36,7 +36,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
     </div>
     <div class="col">
         They flee from me, that somtime did me seke<br>
-        With naked fote stalkyng <style="color: red;"<i>within</i></style> my chamber.<br>
+        With naked fote stalkyng <span style="color: red;"><i>within</i></span> my chamber.<br>
         <i>Once haue I</i> seen them gentle, tame, and meke,<br>
         That now are wild, and do not <i>once</i> remember<br>
         That sometyme they <i>haue</i> put them selues in danger,<br>
