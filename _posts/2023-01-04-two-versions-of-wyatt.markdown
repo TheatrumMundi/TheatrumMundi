@@ -64,7 +64,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
 
 Every emendation in favour of "metre" is detrimental to the integrity of the composition. It is worth going over and comparing line by line. Whoever does so will understand the difference between metre as a rule and measure as the rhythmic integreity of a composition. 
 
-The basic division which proportions Wyatt's phrase is the offset caesura. This is the initial quadrasylabic <i>colon</i> which opens almost every line. Whether it accepts one or two stresses (occaisonally more) is indifferent, as is the order of the "feet": what forms the rhythmn of the phrase is that stress or stresses are held ("sprung") in this truncated and disproprtioned introduction, and released in the following half. The first stanza may be scanned as follows:
+The basic division which proportions Wyatt's phrase is the offset caesura. This is the initial quadrasylabic <i>colon</i> which opens almost every line. Whether it accepts one or two stresses (occaisonally more) is indifferent, as is the order of the "feet": what forms the rhythmn of the phrase is that stress or stresses are held (speaking with Hopkins, "sprung") in this truncated and disproprtioned introduction, and released in the following half. The first stanza may be scanned as follows:
 
 They flé from me| that sómetyme díd me séke <br>
 With náked fóte| stálking in my chámbre.<br>
@@ -78,7 +78,7 @@ Above, each significant or held stress (what is practically a length) is accente
 
 Analogued with the breath, Wyatt's line is consistently a hurried inhalation, followed by a prolonged exhalation; and when this is excepted, it is a deliberate effect, as when the tense stuccato of the fifth line is relieved in the openning of the next, which consequently takes the "standard" caesural placement. It does so as a metrical inversion of fourth line: "That now are wyld" is recapitulated in "and now they raunge." The force of the mind's of lasp into reminiscence is realized as much by metre, and the order of rhythms, as by sense. Whether or not the effect is intended has no bearing on the fact that it is there and works; any sensibility of sufficient sensitivity will enjoy it whether or not he knows why. The caesura in the sixth line has "normal" placement because the typical division has been inverted; the typical division has been inverted to recall the reminiscing mind from past relief ("To take bred at my hand") to the contracted force of present reality ("and nowe they raunge"). Tottel does violence to this movement when he inserts "haue" into "That sometyme they put theimself in daunger." "That sometyme" is a more compressed openning than the rest, consisting of only three sylllables; the suspension is harder to hold, is almost tripped over; and the expansion that follows has the unusual intensity that follows vivid reminiscence totally vitiated by Tottel's awkward symmetry. As Wyatt has it, what follows caesura is hard iambic sequence; it hangs on feminine ending, and laspes into gentleness ("To take bred at my hand"). Tottel's "improvement," though allowing more "regular" scansion, dissipates any force the iambic sequence might have. 
 
-There is no regard for the integrated rhythms of Wyatt's phrase. These are the choices of a deaf man counting his fingers. Other line.
+There is no regard for the integrated rhythms of Wyatt's phrase. These are the choices of a deaf man counting his fingers.
 
 
 
