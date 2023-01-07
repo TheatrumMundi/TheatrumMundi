@@ -62,7 +62,7 @@ Every emendation in favour of "metre" is detrimental to the integrity of the com
 
 The basic division which proportions Wyatt's phrase is the offset caesura. This is the initial quadrasylabic <i>colon</i> which opens almost every line. Whether it accepts one or two stresses (occaisonally more) is indifferent, as is the order of the "feet": what forms the rhythmn of the phrase is that stress or stresses are held ("sprung") in this truncated and disproprtioned introduction, and released in the following half. The first stanza may be scanned as follows:
 
-They flé from me| that sómetýme did me séke <br>
+They flé from me| that sómetyme díd me séke <br>
 With náked fóte| stálking in my chámbre.<br>
 I have séne theim| géntill táme and méke<br>
 That nów are wýld| and do not remémbre<br>
