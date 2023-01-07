@@ -16,17 +16,17 @@ That sometyme they put theimself in daunger<br>
 To take bred at my hand; and nowe they raunge<br>
 Besely seking with a continuell chaunge.<br>
 
-Thancked be fortune, it hath be othrewise<br>
+Thancked be fortune, it hath bene othrewise<br>
 Twenty tymes better; but ons in speciall,<br>
 In thyn arraye after a pleasaunt gyse,<br>
 When her lose gowne from her shoulders did fall,<br>
 And she me caught in her armes long and small;<br>
-Therewithall swetely did she me kysse,<br>
+Therewithall swetely did me kysse,<br>
 And softely saide, dere hert, howe like you this? <br>
 
-It was no dreme: I lay prode waking. <br>
+It was no dreme: I lay vrode waking. <br>
 But all is torned thorough my gentilnes<br>
-Into a straunge gasshion of forsaking;<br>
+Into a straunge fasshion of forsaking;<br>
 And I have leve to goo of her goodenes,<br>
 And she also to vse new fangilnes.<br>
 But syns that I so kyndely ame serued,<br>
@@ -60,6 +60,21 @@ But, sins that I <i>unkindly so</i> am serued:<br>
 
 Every emendation in favour of "metre" is detrimental to the integrity of the composition. It is worth going over and comparing line by line. Whoever does so will understand the difference between metre as a rule and measure as the rhythmic integreity of a composition. 
 
+The basic division which proportions Wyatt's phrase is the offset caesura. This is the initial quadrasylabic <i>colon</i> which opens almost every line. Whether it accepts one or two stresses (occaisonally more) is indifferent, as is the order of the "feet": what forms the rhythmn of the phrase is that stress or stresses are held ("sprung") in this truncated and disproprtioned introduction, and released in the following half. The first stanza may be scanned as follows:
+
+They flé from me| that sómetýme did me séke <br>
+With náked fóte| stálking in my chámbre.<br>
+I have séne theim| géntill táme and méke<br>
+That nów are wýld| and do not remémbre<br>
+That sómetyme| they pút theimsélf in daúnger<br>
+To take bréd at my hánd/; and nówe they raúnge<br>
+Bésely séking| with a contínuell chaúnge.<br>
+
+Above, each significant or held stress (what is practically a length) is accented; the straight divisions end the opening colon and the slanted division marks the caesura at its typical location. It is here more appropriate to speak of cola than feet, as the phrase is formed as a whole. Insensitively, one might say that within the colon the tendency is iambic; one might admit this if one had in mind an abstract stress metronome, and it is true that one could scan a good deal of the composition in this way, though Wyatt's "irregularities" often offset it. However, the rhythmically essential stresses are phrasal and have an almost quantitative force insofar as the tendency is to hold them in suspension, then release. Of these "stresses" there are normally four per line. Bunting claimed that the four beat line is, underneath the impositions of later prosodists, the normal articulation of the line in English, and I am inclined to agree. Here, one does not mean to say Wyatt's metre is quantitative, as quantity is not fixed in English and is dependant on stress; but that the major stresses of Wyatt's line are held, and are thus "stress quantities" and that the normal number of these per line is four, however proportioned or disproportioned by the caesura. More or less than four "stress quantities" per line is irregular. The dynamism of the English line is perhaps this four beat base, inherited from Old English, opperating in counterpoint or harmony with the impositions of later and foreign prosody.
+
+Analogued with the breath, Wyatt's line is consistently a hurried inhalation, followed by a prolonged exhalation; and when this is excepted, it is a deliberate effect, as when the tense stuccato of the fifth line is relieved in the openning of the next, which consequently takes the "standard" caesural placement. 
+
 There is no regard for the integrated rhythms of Wyatt's phrase. These are the choices of a deaf man counting his fingers. 
+
 
 
