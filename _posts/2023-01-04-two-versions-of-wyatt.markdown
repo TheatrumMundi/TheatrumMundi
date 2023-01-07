@@ -10,7 +10,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
 
 <div class="columnated">
     <div class="col">
-        They fle from me that sometyme did me seke <br>
+        They fle from me that sometyme did me seke <br />
         With naked fote stalking in my chambre.<br>
         I have sene theim gentill tame and meke<br>
         That now are wyld and do not remembre<br>
