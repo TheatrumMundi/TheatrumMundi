@@ -32,7 +32,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
         And I have leve to goo of her goodenes,<br>
         And she also to vse new fangilnes.<br>
         But syns that I so kyndely ame serued,<br>
-        I would fain knowe what she hath deserued
+        I would fain knowe what she hath deserued <br>
     </div>
     
     <div class="col">
