@@ -34,7 +34,6 @@ It was once custom to write the older and irregular meters into the "stricter" s
         But syns that I so kyndely ame serued,<br>
         I would fain knowe what she hath deserued <br>
     </div>
-    
     <div class="col">
         They flee from me, that somtime did me seke<br>
         With naked fote stalkyng <i>within</i> my chamber.<br>
@@ -60,7 +59,7 @@ It was once custom to write the older and irregular meters into the "stricter" s
         But, sins that I <i>unkindly so</i> am serued:<br>
         <i>How like you this,</i> what hath she <i>now</i> deserued?<br>
     </div>
-</div>
+ </div>
 
 Every emendation in favour of "metre" is detrimental to the integrity of the composition. It is worth going over and comparing line by line. Whoever does so will understand the difference between metre as a rule and measure as the rhythmic integreity of a composition. 
 
