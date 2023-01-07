@@ -30,7 +30,7 @@ Into a straunge fasshion of forsaking;<br>
 And I have leve to goo of her goodenes,<br>
 And she also to vse new fangilnes.<br>
 But syns that I so kyndely ame serued,<br>
-I would fain knowe what she hath deserued.<br>|They flee from me, that somtime did me seke<br>
+I would fain knowe what she hath deserued|They flee from me, that somtime did me seke<br>
 With naked fote stalkyng <i>within</i> my chamber.<br>
 <i>Once haue I</i> seen them gentle, tame, and meke,<br>
 That now are wild, and do not <i>once</i> remember<br>
