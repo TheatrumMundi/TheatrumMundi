@@ -78,9 +78,9 @@ Above, each significant or held stress (what is practically a length) is accente
 
 Analogued with the breath, Wyatt's line is consistently a hurried inhalation, followed by a prolonged exhalation; and when this is excepted, it is a deliberate effect, as when the tense stuccato of the fifth line is relieved in the openning of the next, which consequently takes the "standard" caesural placement. It does so as a metrical inversion of fourth line: "That now are wyld" is recapitulated in "and now they raunge." The force of the mind's of lasp into reminiscence is realized as much by metre, and the order of rhythms, as by sense. Whether or not the effect is intended has no bearing on the fact that it is there and works; any sensibility of sufficient sensitivity will enjoy it whether or not he knows why. 
 
-<span style="color: #bb0100;">That nów are wýld</span>| and do not remémbre
-That sómetyme| they pút theimsélf in daúnger
-To take bréd at my hánd/; <span style="color: #bb0100;">and nówe they raúnge</span>
+<span style="color: #bb0100;">That nów are wýld</span>| and do not remémbre <br>
+That sómetyme| they pút theimsélf in daúnger <br>
+To take bréd at my hánd/; <span style="color: #bb0100;">and nówe they raúnge</span> <br>
 
 The caesura in the sixth line has "normal" placement because the typical division has been inverted; the typical division has been inverted to recall the reminiscing mind from past relief ("To take bred at my hand") to the contracted force of present reality ("and nowe they raunge"). Tottel does violence to this movement when he inserts "haue" into "That sometyme they put theimself in daunger." "That sometyme" is a more compressed openning than the rest, consisting of only three syllables; the suspension is harder to hold, is almost tripped over; and the expansion that follows has the unusual intensity that follows vivid reminiscence totally vitiated by Tottel's awkward symmetry. As Wyatt has it, what follows caesura is hard iambic sequence; it hangs on feminine ending, and laspses into gentleness ("To take bred at my hand"). Tottel's "improvement," though allowing more "regular" scansion, dissipates any force the iambic sequence might have. 
 
