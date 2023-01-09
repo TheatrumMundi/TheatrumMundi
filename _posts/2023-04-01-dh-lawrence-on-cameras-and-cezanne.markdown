@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "D.H. Lawrence on the Camera and Cezanne"
-date:   2023-04-01 06:18:00 +0100
+date:   2023-01-04 06:18:00 +0100
 categories: jekyll update
 ---
 <i> From Art and Morality </i>
