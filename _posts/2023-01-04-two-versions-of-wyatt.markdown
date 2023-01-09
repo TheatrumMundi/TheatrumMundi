@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Two Versions of Wyatt"
-date:   2023-04-01 16:36:00 +0100
+date:   2023-01-04 16:36:00 +0100
 categories: jekyll update
 ---
 
