@@ -11,4 +11,4 @@ There is no nature which the imposition of force can alter. Therefore, nature, u
 
 Death retains its significance as the last garauntee of nature, i.e. what in itself cannot be decomposed by force. Even if indefinitely postponed, it remains inviolate: it is that against which nature is. It is not positive. 
 
-In the synthetic product, a certain death has changed hands: the result is monstrosity, a ubiquitous and unprecidented ugliness, alied with caprice and high pedantry. 
+In the synthetic product, a certain power of death has changed hands: the result is monstrosity, a ubiquitous and unprecidented ugliness, alied with caprice and high pedantry. 
