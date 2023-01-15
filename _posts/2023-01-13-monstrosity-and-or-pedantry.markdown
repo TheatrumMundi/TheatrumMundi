@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monstrosity and/or Pedantry"
-date:   2023-01-01 17:59:00 +0100
+date:   2023-01-14 17:59:00 +0100
 categories: jekyll update
 ---
 
