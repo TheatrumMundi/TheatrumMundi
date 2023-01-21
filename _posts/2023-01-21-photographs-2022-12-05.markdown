@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Photographs 2021-12-05"
+date:   2023-01-21 13:49:00 +0100
+categories: jekyll update
+---
+
+![Photograph 1]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-4/IMG_9027.jpg)
+
+
+
+
+
+
