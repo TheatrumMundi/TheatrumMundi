@@ -1,6 +1,6 @@
 ---
-layout: Hebbel on Tragedy
-title:  "Photographs 2021-12-05"
+layout: post
+title:  "Hebbel on Tragedy"
 date:   2023-01-25 14:08:00 +0100
 categories: jekyll update
 ---
