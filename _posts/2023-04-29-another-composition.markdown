@@ -8,20 +8,20 @@ categories: jekyll update
 I have changed the last stanza almost totally. As it whole it now reads:
 
 
-There is no question, full enough,
-of its movement, time enough
-to suspend that suspension, breathe what
-dense, and through its density,
+There is no question, full enough, <br>
+of its movement, time enough <br> <br>
+to suspend that suspension, breathe what <br>
+dense, and through its density, <br>
 
-palpable air gives at last:
-inhilation, a false note of fall
-in winter, collects itself.
-I carry out my double. 
+palpable air gives at last: <br>
+inhilation, a false note of fall <br>
+in winter, collects itself. <br>
+I carry out my double. <br>
 
 The final stanza originally read:
 
-palpable air gives at last: inhalation;
-a fault laid in the feathered 
-breast; an inevitable avoidable failure.
+palpable air gives at last: inhalation; <br>
+a fault laid in the feathered <br>
+breast; an inevitable avoidable failure. <br>
 
 I am not entirely satisfied with this but want to leave it up for the record. 
