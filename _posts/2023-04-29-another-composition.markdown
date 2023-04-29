@@ -9,7 +9,7 @@ I have changed the last stanza almost totally. As it whole it now reads:
 
 
 There is no question, full enough, <br>
-of its movement, time enough <br> <br>
+of its movement, time enough <br> 
 to suspend that suspension, breathe what <br>
 dense, and through its density, <br>
 
