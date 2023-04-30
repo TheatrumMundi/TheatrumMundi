@@ -14,7 +14,7 @@ to suspend that suspension, breathe what <br>
 dense, and through its density, <br>
 
 palpable air gives at last: <br>
-inhilation, a false note of fall <br>
+inhalation, a false note of fall <br>
 in winter, collects itself. <br>
 I carry out my double. <br>
 
