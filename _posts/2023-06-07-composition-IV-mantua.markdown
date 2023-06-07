@@ -16,7 +16,7 @@ Which wanting, still, but is bare ceremony — <br>
 And these stairs, and this vapour, that ravage- <br>
 Ment and fillial embrace: a tanglement <br>
 Of blue, half-percepted flame burns here still. <br>
-Withdrawn, it speaks of words no longer meant: <br>
+Withdrawn, it speaks words no longer meant: <br>
 “I am your countryman, of your city still,” <br>
 And still I sit apart, and contemplate <br>
 The steps on which Gonzaga stept too late. <br>
