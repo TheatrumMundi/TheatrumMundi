@@ -4,7 +4,7 @@ title:  "Composition IV (Mantua)"
 date:   2023-06-07 17:41:00 +0100
 categories: jekyll update
 ---
-From a first, aborted attempt to write a sonnet. The major defect is that the form of thought does not agree with the verse form, because the content exceeds the quatrains. But this is not totally unheard of (consider Wyatt's *Avising the Bright Beams.* [Recording](https://voca.ro/13I9pNhtEt9i). 
+From a first, aborted attempt to write a sonnet. The major defect is that the form of thought does not agree with the verse form, because the content exceeds the quatrains. But this is not totally unheard of (consider Wyatt's *Avising the Bright Beams.*) [Recording](https://voca.ro/13I9pNhtEt9i). 
 
 City of brick, countenance of the years’ <br>
 Dry labour, conversant, bodily, <br>
