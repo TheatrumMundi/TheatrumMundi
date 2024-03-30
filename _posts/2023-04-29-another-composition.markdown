@@ -25,3 +25,16 @@ a fault laid in the feathered <br>
 breast; an inevitable avoidable failure. <br>
 
 I am not entirely satisfied with this but want to leave it up for the record. 
+
+Here is another version, arranged as of March 2024:
+
+There is no question, full <br>
+Enough, of its movement, <br>
+Time enough, to suspend <br>
+That suspension, breathe <br>
+What dense, and through its <br>
+Density, palpable air gives <br>
+At last: aspiration, a fault <br>
+Laid in the feathered breast: an <br>
+inevitable, avoidable failure. <br>
+
