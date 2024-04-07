@@ -17,8 +17,6 @@ categories: jekyll update
 
 ![Photograph 6]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-5-venice/IMG_2239.jpg)
 
-![Photograph 7]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-5-venice/IMG_2420.jpg)
-
 ![Photograph 8]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-5-venice/IMG_2475.jpg)
 
 ![Photograph 9]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-5-venice/IMG_2508.jpg)
