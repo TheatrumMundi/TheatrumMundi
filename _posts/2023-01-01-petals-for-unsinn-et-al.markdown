@@ -36,5 +36,5 @@ Illusion is the least philosphic of dismissals・
 
 Beauty is where the real begins to abstract itself・
 
-The effect of an ordinary person today is as jarring againtst a city like Venice as the same in nature. We used to, and still do in translated forms, speak of nature and culture; and the old culture has become new nature as it fosilized・
+The effect of an ordinary person today is as jarring against a city like Venice as the same in nature. We used to, and still do in translated forms, speak of nature and culture; and the old culture has become new nature as it fosilized・
 
