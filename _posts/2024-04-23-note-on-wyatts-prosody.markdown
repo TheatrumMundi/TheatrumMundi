@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Note on Wyatt's Prosody"
+date:   2024-04-23 13:56:00 +0100
+categories: jekyll update
+---
+
+Wyatt cannot be understood in terms of what the future has made of him. The “principles” which govern his works are not experiments in prosody as later formalised, and his virtues should not be measured against them.
+
+Chiefly there are three constraints when he turns to continental forms: the native habit of held stress, belonging to music and beaten out in four syllables, the caesural division, and the scheme of thought organised by foreign rhyme. As to matters of “feet” and exact syllable counts he did not seem to have much concern; and the pattern of stress within the line varies by the freedom and constraint of the ear. One has difficulty hearing what comes naturally to Wyatt’s English if one is more attentive to the counting of stresses in feet than phrasal articulation; but this demands the musician’s sensitivity to length, not the metricist's finger.
+
+We grant that the basis of the line is probably “iambic”; the additions and subtractions which Wyatt permits himself, in beginning the line, or before or after the caesura, offset the line for length to articulate its balance. The equal weighting of stresses, the indelible habit of metricists, who never tire of knowing, we know, that English is a stressed language, makes dogfood of the line whose balance is saved by the articulate phrase: that is, a line where certain stresses are held or alternatively ran over, as a matter of structure, not embellishment. One no longer hears (or perhaps still hadn't heard) the foot as the governing unit. It is rather the caesural segment as a whole, which, though iambic in undercurrent, functions as a colon.
+
+We ask, how, for the ear, a line offset or truncated in the liberal manner which Wyatt permits himself reads well; the answer is the balance of length in the articulate phrase, organised by the caesura.
+
+It is not enough to admit the line is roughly decasyllabic if one is not sensitive to how it is actually articulated. For instance, often scholars talk about a "broken-back" line. It is supposed to add a monosyllabic "foot" following the caesura; this however is not heard as a foot. Consider the line *Afóre his brést, fráwtyd with disése.* The metricists tend to read *fraw-* as an additional and anomalous foot; according to the pattern of feet, *-tyd wíth* follows as a complete iamb, and so *disése* (they put the “feet” together: *Afóre / his brést/, fráw/tyd wíth / disése*). But the role of the caesura is to suspend the line; and where the line resumes on a stress the pleasant effect is to prolong that syllable, which prolonging shortens what follows relatively, especially when the resumptive syllable belongs to a longer word. Therefore, it makes little sense to the ear to stress wíth as the rise of an iambic foot when reading hears *fráwtyd with* as a rhythmical unit (more, in fact, like a dactyl), and, indeed, tends to hear the caesural partition as a whole: it falls from *fráwtyd* to rise again in *disése*. Though it can be counted pentametrically, in articulation there are only four stresses. This is common in Wyatt.
+
+I am aware of the variable line thesis, which maintains there are a set number of preformulated patterns which Wyatt draws on in combination; but do not find it totally convincing. Almost all examples I have seen applied to scansion make a mess of the verse. For example, I have seen once scholar scan *Avising the Bright Bemes* as: *Avís | ing thé | bright bémes / of thése | fayer Íyse* because his models do not allow for the obvious, but for him unmetrical, reading of *Avís | ing the | bríght bémes / of thése | fáyer íyse* (broken into feet not to suggest composition or articulation, but for convenience and comparison). Such feet as the second are not allowed. But Wyatt needs sequences of unstressed syllables often for his pacing. To take them as "feet" is really to misunderstand their place in the line. Or in LXXIX, which has been scanned: *retórning tó / lépe intó the fíre* when to me it more effectively reads: *retórning / to lépe into the fíre* with *into* the being run together as Hopkins would have it. 
+
+Many otherwise ambiguous or similarly "awkward" lines are immediately clarified to the ear sensitive to length, by which is only meant when certain syllables are clung to by the mouth, or otherwise run over and together (not necessarily slurred, elided, or contracted). It seems to me highly unlikely that Wyatt, and even his predecessors, were consulting a table of patterns. I think he simply composed with certain rhythms in his ear, which gathered around the hemistich. 
+
+
+
