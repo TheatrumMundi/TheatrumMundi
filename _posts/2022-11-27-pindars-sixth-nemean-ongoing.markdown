@@ -31,5 +31,5 @@ Grandfather of his bloodline. He, <br>
 Olympian, first brought Aeacidae <br>
 Alpheus’ wreath, won five crowns <br>
 at the Isthmus, thrice Nemea, ended <br>
-the lapse of Socleides <br>
-
+the neglect of Socleides, greatest <br>
+of Hagesimachus' sons; <br>
