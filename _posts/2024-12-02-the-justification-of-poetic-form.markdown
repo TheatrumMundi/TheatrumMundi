@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Justification of Poetic Form
+title:  "The Justification of Poetic Form"
 date:   2024-12-02 12:09:00 +0100
 categories: jekyll update
 ---
