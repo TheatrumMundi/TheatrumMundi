@@ -9,7 +9,7 @@ I have attempted on and off for several years to make this composition work, and
 
 What was the dream which was its reason <br>
 Is long in waiting satisfaction. We have <br>
-Felt what was not felt to be returned: <br>
+Felt it, which was not felt to be returned: <br>
 That love, that burled about your breast, is smoke <br>
 
 In alabaster. No beauty, which spared <br>
