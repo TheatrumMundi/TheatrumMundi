@@ -8,8 +8,8 @@ categories: jekyll update
 I have attempted on and off for several years to make this composition work, and this is its latest state, likely to be subject to further revision, although found satisfying enough for now to be seen by the handful of people who will see it. 
 
 What was the dream which was its reason <br>
-Is long in waiting satisfaction. We have <br>
-Felt what was not felt to be returned: <br>
+Is long in waiting satisfaction. We <br>
+Have felt what was not felt to be returned: <br>
 That love, that burled about your breast, as smoke <br>
 
 In alabaster. No beauty, which spared <br>
