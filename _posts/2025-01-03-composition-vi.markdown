@@ -16,6 +16,6 @@ In alabaster. No beauty, which spared <br>
 So little, so reproached us then as now <br>
 In witness. The dream you said will be the <br>
 White of ivory is blind and blinding, <br>
-As hoarfrost clads the candour of the yoke. <br> 
+As hoarfrost clads the candour of the bone. <br> 
 
 
