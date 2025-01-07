@@ -12,5 +12,5 @@ O fio é o meu penar. <br>
 
 I have a pearl necklace, <br>
 Set aside to give you: <br>
-The pearls are my kisses, <br>
+The pearls are my kiss, <br>
 The necklace is my wound. <br>
