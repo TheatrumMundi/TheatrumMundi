@@ -4,7 +4,7 @@ title:  "After Rilke's Panther"
 date:   2023-01-01 16:26:00 +0100
 categories: jekyll update
 ---
-I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.     
+The following is mostly unacceptable, but there are a few small successes which justify sharing it regardless. The rendering of the first stanza is especially unfortunate.     
 
 His sight, by its passage across the bars, is <br>
 become so weary it beholds no more. <br>
