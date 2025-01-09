@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Differentiates Poetry from Music"
+title:  "Where Poetry and Music Differ"
 date:   2024-12-03 13:10:00 +0100
 categories: jekyll update
 ---
