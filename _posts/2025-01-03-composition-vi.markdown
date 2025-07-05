@@ -18,7 +18,7 @@ In witness. The dream, you said, will be <br>
 The white of ivory is blind and blinding, <br>
 As hoarfrost coats the handle of the yoke. <br>
 
-*Or, as of April 22, 2025:*
+*Or, as of April 22, 2025*
 
 What was the dream which was its reason <br>
 Is long in waiting satisfaction. We <br>
@@ -31,4 +31,4 @@ As now in witness. The dream you said is <br>
 The white of ivory is blind and blinding, <br>
 As hoarfrost coats the handle of the yoke. <br>
 
-
+[Recording](https://voca.ro/19yuOUEmmeIh)
