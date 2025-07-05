@@ -20,3 +20,20 @@ Withdrawn, it speaks words no longer meant: <br>
 “I am your countryman, of your city still,” <br>
 And still I sit apart, and contemplate <br>
 The steps on which Gonzaga stept too late. <br>
+
+Another version as of July 5th, 2025. [Recording](https://voca.ro/13e4RZp1MzfQ)
+
+City of brick, countenance of the years’<br>
+Dry labour, conversant, it is thought,<br>
+In the old step pealing to new ears:<br>
+How many have turned and could and could not<br>
+Want that song and sallowed testimony —<br>
+But was it not enough to want your image?<br>
+Which wanting, still, but is bare ceremony —<br>
+And these stairs, and this vapour, that ravage-<br>
+Ment and filial embrace: a tanglement<br>
+Of blue, half-percepted flame burns here still.<br>
+Withdrawn, it speaks words no longer meant:<br>
+“I am your countryman, of your city still,”<br>
+And still I sit apart, and contemplate<br>
+The steps on which Gonzaga stept too late.<br>
