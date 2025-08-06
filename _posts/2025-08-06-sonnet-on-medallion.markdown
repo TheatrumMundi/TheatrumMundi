@@ -22,8 +22,9 @@ But it is no use: that I on its parted lips <br>
 &nbsp;&nbsp;Who have touched my error to its fingers’ tips, <br>
 &nbsp;&nbsp;And pulled at the arrow through my prurience: <br>
 
-&nbsp;&nbsp;To find no answer, knowing well what is his, <br>
+To find no answer, knowing well what is his, <br>
 &nbsp;&nbsp;That is: to bear a cross which no longer is. <br>
+
 
 
 
