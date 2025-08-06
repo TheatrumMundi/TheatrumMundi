@@ -23,7 +23,8 @@ But it is no use: that I on its parted lips <br>
 &nbsp;&nbsp;And pulled at the arrow through my prurience: <br>
 
 To find no answer, knowing well what is his, <br>
-&nbsp;That is: to bear a cross which no longer is. <br>
+&nbsp;&nbsp;That is: to bear a cross which no longer is. <br>
+
 
 
 
