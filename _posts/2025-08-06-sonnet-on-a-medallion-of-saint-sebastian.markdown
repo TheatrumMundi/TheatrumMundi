@@ -8,7 +8,7 @@ categories: jekyll update
 *The subject of this sonnet is a medallion, found on the left side of the entrance to the Church of Saint Sebastian in Venice, of peculiar typological value.*
 
 Poverty of blood, that is indigence, <br>
-Is squandered; and what image that remains, <br>
+Is squandered. What image that remains, <br>
 Suggesting neither guilt nor innocence, <br>
 Is white stone that bares nothing through its veins. <br>
 
@@ -24,6 +24,7 @@ And pulled at the arrow through my prurience: <br>
 
 To find no answer, knowing well what is his, <br>
 That is: to bear a cross which no longer is. <br>
+
 
 
 
