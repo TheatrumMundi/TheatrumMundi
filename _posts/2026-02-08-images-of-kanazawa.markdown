@@ -17,6 +17,12 @@ categories: jekyll update
 
 ![Photograph 6]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7773.jpg)
 
-![Photograph 7]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7801.jpg)
+![Photograph 7]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7775.jpg)
 
-![Photograph 8]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7831.jpg)
+![Photograph 8]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7785.jpg)
+
+![Photograph 9]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7801.jpg)
+
+![Photograph 10]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7829.jpg)
+
+![Photograph 11]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-18-kanazawa/IMG_7831.jpg)
