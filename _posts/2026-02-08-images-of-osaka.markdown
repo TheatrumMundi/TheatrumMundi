@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Images of Osaka"
-date:   2026-02-08 16:00:00 +0000
+date:   2026-02-08 14:30:00 +0000
 categories: jekyll update
 ---
 
