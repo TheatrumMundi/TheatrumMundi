@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some lines from Venice."
+title:  "Some Lines from Venice"
 date:   2026-02-08 18:00:00 +0000
 categories: jekyll update
 ---
