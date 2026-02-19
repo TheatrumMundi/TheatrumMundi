@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: $brand-color;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:visited {
     color: darken($brand-color, 15%);
@@ -267,4 +267,8 @@ table {
 
 .col {
   overflow-wrap: normal;
+}
+
+.site-title, .site-title:visited, .site-title:hover {
+  text-decoration: none;
 }
