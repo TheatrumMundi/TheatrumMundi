@@ -87,4 +87,4 @@ The caesura in the sixth line has "normal" placement because the typical divisio
 There is no regard for the integrated rhythms of Wyatt's phrase. These are the choices of a deaf man counting his fingers.
 
 
-
+
