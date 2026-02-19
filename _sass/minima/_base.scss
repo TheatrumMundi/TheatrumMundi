@@ -178,7 +178,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: 50%;
+  max-width: 58%;
   margin: 0 auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
@@ -186,7 +186,7 @@ pre {
   @extend %clearfix;
 
   @include media-query($on-laptop) {
-    max-width: 60%;
+    max-width: 68%;
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
