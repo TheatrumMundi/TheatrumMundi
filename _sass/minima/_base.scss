@@ -178,22 +178,21 @@ pre {
  * Wrapper
  */
 .wrapper {
-  display: grid;
-  grid-template-columns: 1fr minmax(auto, #{$content-width}) 1fr;
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
 
-  > * {
-    grid-column: 2;
-  }
-
   @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
 }
-
 
 /**
  * Clearfix
