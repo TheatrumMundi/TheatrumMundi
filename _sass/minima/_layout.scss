@@ -200,8 +200,11 @@
   padding-left: 5px;
   font-weight: 200;
   font-style: italic;
-}  color: $grey-color;
 }
+
+.post-meta {
+  color: $grey-color;
+}}
 
 .post-link {
   @include relative-font-size(1);
