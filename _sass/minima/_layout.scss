@@ -223,12 +223,12 @@
   @include relative-font-size(1.25);
   letter-spacing: -1px;
   line-height: 1;
+  margin-bottom: 0;
 
   @include media-query($on-laptop) {
     @include relative-font-size(1.125);
   }
-}  margin-bottom: $spacing-unit;
-
+}
   h2 {
     @include relative-font-size(2);
 
