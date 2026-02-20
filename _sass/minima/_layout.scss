@@ -204,8 +204,8 @@
 
 .post-meta {
   color: $grey-color;
+  font-style: italic;
 }
-
 .post-link {
   @include relative-font-size(1);
 }
