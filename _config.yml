@@ -28,6 +28,7 @@ url: "https://theatrummundi.github.io" # the base hostname & protocol for your s
 
 # Build settings
 theme: minima
+permalink: /:year/:month/:day/:title:output_ext
 plugins:
   - jekyll-feed
 
