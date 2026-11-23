@@ -254,18 +254,31 @@ table {
   }
 }
 
-/** 
- * Columns 
+/**
+ * Verse
  */
 
- .columnated {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
+.post-content .verse {
+  text-align: left;
 }
 
-.col {
-  overflow-wrap: normal;
+.verse-indent {
+  margin-inline-start: 1.5em;
+}
+
+.verse-indent-wide {
+  margin-inline-start: clamp(0px, 60%, 13.5em);
+}
+
+.columnated {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+}
+
+.columnated > .col {
+  flex: 1 1 19rem;
+  min-width: 0;
 }
 
 .site-title, .site-title:visited {

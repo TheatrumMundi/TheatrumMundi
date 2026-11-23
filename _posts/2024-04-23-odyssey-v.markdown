@@ -6,61 +6,65 @@ categories: jekyll update
 ---
 
 And him saw she <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of ankle fair, Ino<br>
+<span class="verse-indent">of ankle fair, Ino</span><br>
 Who was white goddess, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;daughter of Cadmus,<br>
+<span class="verse-indent">daughter of Cadmus,</span><br>
 Once of mortal speech,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now of honour<br>
+<span class="verse-indent">now of honour</span><br>
 Maketh she residence<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of gods’ salt spindrift,<br>
+<span class="verse-indent">of gods’ salt spindrift,</span><br>
 And pitied Odysseus <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wandering<br>
+<span class="verse-indent">wandering</span><br>
 As one sore strained,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and crested the water<br>
+<span class="verse-indent">and crested the water</span><br>
 Shear as a seagull,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and set upon his raft<br>
+<span class="verse-indent">and set upon his raft</span><br>
 Bound over well,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and spoke this saying:<br>
+<span class="verse-indent">and spoke this saying:</span><br>
+{: .verse}
 
 How cometh it so<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who shaketh the earth<br>
+<span class="verse-indent">who shaketh the earth</span><br>
 Poseïdon<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is wroth against thee,<br>
+<span class="verse-indent">is wroth against thee,</span><br>
 Therefore accursed,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and is terrible,<br>
+<span class="verse-indent">and is terrible,</span><br>
 And planteth many<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a misfortune about thee?<br>
+<span class="verse-indent">a misfortune about thee?</span><br>
 Yet shall he not<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;destroy thee utterly<br>
+<span class="verse-indent">destroy thee utterly</span><br>
 Though he indeed<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purposeth—<br>
+<span class="verse-indent">purposeth—</span><br>
 Yet do thou thus<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who seemeth not senseless,<br>
+<span class="verse-indent">who seemeth not senseless,</span><br>
 Put off thy garbage <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and leave thy barge caught in the wind;<br>
+<span class="verse-indent">and leave thy barge caught in the wind;</span><br>
 Wherwithall<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;go thou to swim by the hand<br>
+<span class="verse-indent">go thou to swim by the hand</span><br>
 Toward Phaeacia’s land, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and there estert thy fate.<br>
+<span class="verse-indent">and there estert thy fate.</span><br>
+{: .verse}
 
 Here take this veil,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your breast it for to stretch,<br>
+<span class="verse-indent">your breast it for to stretch,</span><br>
 Which is immortal, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nor wilt suffer fear at all<br>
+<span class="verse-indent">nor wilt suffer fear at all</span><br>
 Nor perish,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;til thy fingers feeleth at the ground:<br>
+<span class="verse-indent">til thy fingers feeleth at the ground:</span><br>
 Whereat to cast<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it to the wine glossed sea<br>
+<span class="verse-indent">it to the wine glossed sea</span><br>
 At length from land,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and turn thyself away. <br>
+<span class="verse-indent">and turn thyself away.</span> <br>
+{: .verse}
 
 
 So saying <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;handed she him the veil <br>
+<span class="verse-indent">handed she him the veil</span> <br>
 And rolled back with the swell<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shear as a seagull<br>
+<span class="verse-indent">shear as a seagull</span><br>
 And under cover of wave<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was darkened.<br>
+<span class="verse-indent">was darkened.</span><br>
+{: .verse}
 
 
 

@@ -9,15 +9,17 @@ I have attempted on and off for several years to make this composition work, and
 
 What was the dream which was its reason <br>
 Is long in waiting satisfaction. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have <br>
+<span class="verse-indent verse-indent-wide">We have</span> <br>
 Felt it, which was not felt to be returned: <br>
 That love, that burled about your breast, is smoke <br>
+{: .verse}
 
 In alabaster. No beauty, which spared <br>
 So little, so reproached us then as now <br>
 In witness. The dream, you said, will be <br>
 The white of ivory is blind and blinding, <br>
 As hoarfrost coats the handle of the yoke. <br>
+{: .verse}
 
 [Recording](https://voca.ro/19yuOUEmmeIh)
 
