@@ -11,22 +11,27 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
 
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
-        <span class="post-list-item">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-          </a>
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-        </span> 
-        {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="home-posts">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+          <span class="post-list-item">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+            </a>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </span>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+      <img class="home-photo"
+        src="{{ '/assets/photographs/post-photographs-4/IMG_9027.jpg' | relative_url }}"
+        alt="Photograph from Photographs 2021-12-05">
+    </div>
 
   {%- endif -%}
 
