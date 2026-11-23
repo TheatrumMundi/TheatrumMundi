@@ -22,4 +22,16 @@
   color: #000;
   font-size: 0.875rem;
   font-style: normal;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 980px) {
+  .home-posts {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 15px;
+  }
+
+  .home-photo {
+    grid-row: 1;
+  }
 }
