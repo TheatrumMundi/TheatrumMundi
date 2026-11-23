@@ -5,6 +5,10 @@
     {%- assign page_paths = site.header_pages -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
+    {%- if page.layout == "home" and site.posts.size > 0 -%}
+      {%- include home-photo.html position="header" -%}
+    {%- endif -%}
+
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

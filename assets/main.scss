@@ -18,6 +18,10 @@
   object-fit: cover;
 }
 
+.home-photo--header {
+  display: none;
+}
+
 .home-posts .post-meta {
   color: #000;
   font-size: 0.875rem;
@@ -28,10 +32,14 @@
 @media screen and (max-width: 980px) {
   .home-posts {
     grid-template-columns: minmax(0, 1fr);
-    row-gap: 15px;
   }
 
-  .home-photo {
-    grid-row: 1;
+  .home-photo--posts {
+    display: none;
+  }
+
+  .home-photo--header {
+    display: block;
+    float: right;
   }
 }
