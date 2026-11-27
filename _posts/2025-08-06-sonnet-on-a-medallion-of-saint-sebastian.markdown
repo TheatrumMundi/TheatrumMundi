@@ -22,16 +22,10 @@ And pulled at the arrow through my prurience: <br>
 To find no answer, knowing well what is his, <br>
 That is: to bear a cross which no longer is. <br>
 
+*Coda*
 
-
-
-
-
-
-
-
-
-
-
-
-
+I am not worried for you. Those are good <br>
+Hands into which you find your lost self soon <br>
+Delivered. The waters, above which you stood, <br>
+Now reflect the cold and obdurate moon.
+{: .verse}
